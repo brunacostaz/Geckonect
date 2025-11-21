@@ -1,6 +1,6 @@
 # 🦎 Geckonect API - Sistema de Recomendação de Carreira e Trilhas com IA
 
-## O problema e a solução
+## O Problema e a Solução
 
 O futuro do trabalho, impulsionado pela IA e automação, expõe profissionais a uma busca urgente por requalificação. Com a projeção de que inúmeras profissões se tornarão obsoletas até 2030, o risco de desemprego massivo é iminente, e a educação tradicional se mostra incapaz de preparar o trabalhador para essa adaptação acelerada. A falta de um direcionamento estratégico e personalizado leva à sobrecarga e ao risco de burnout, agravado pela pressão corporativa e pela falta de atenção à saúde mental.
 
