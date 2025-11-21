@@ -64,7 +64,7 @@ A documentação interativa (Swagger UI) está em: `http://localhost:8080/swagge
 
 ## 🧪 Como Testar a API (Insomnia)
 
-Algumas sugestões para você testar as funcionalidades da API.
+Algumas sugestões para você testar as funcionalidades da API. 
 
 ### Teste da IA
 
@@ -72,6 +72,13 @@ O endpoint `/recomendacao/{id}` utiliza a lógica de IA. Teste os dois cenários
 
 ### 1. Teste de Reskilling e Risco de Automação (ID do Questionário: `1`)
 
+Este cenário testa o pilar de **Saúde Mental**.
+
+* **Requisição:**
+    ```http
+    GET http://localhost:8080/recomendacao/2
+    ```
+    
 Este cenário testa o pilar de **Risco de Automação**.
 
 * **Requisição:**
