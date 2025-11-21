@@ -66,11 +66,11 @@ A documentação interativa (Swagger UI) está em: `http://localhost:8080/swagge
 
 Algumas sugestões para você testar as funcionalidades da API. 
 
-### Teste da IA
+### 1. Teste da IA
 
 O endpoint `/recomendacao/{id}` utiliza a lógica de IA. Teste os dois cenários mais importantes para validar as regras de negócio:
 
-### 1. Teste de Reskilling e Risco de Automação 
+### Teste de Reskilling e Risco de Automação 
 
 Este cenário testa o pilar de **Saúde Mental**.
 
