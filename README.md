@@ -70,16 +70,14 @@ Algumas sugestões para você testar as funcionalidades da API.
 
 O endpoint `/recomendacao/{id}` utiliza a lógica de IA. Teste os dois cenários mais importantes para validar as regras de negócio:
 
-### Teste de Reskilling e Risco de Automação 
-
-Este cenário testa o pilar de **Saúde Mental**.
+Este cenário testa o pilar de **Saúde Mental**:
 
 * **Requisição:**
     ```http
     GET http://localhost:8080/recomendacao/2
     ```
     
-Este cenário testa o pilar de **Risco de Automação**.
+Este cenário testa o pilar de **Risco de Automação**:
 
 * **Requisição:**
     ```http
