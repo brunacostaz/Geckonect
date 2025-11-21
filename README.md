@@ -41,6 +41,10 @@ O projeto utiliza o banco de dados **H2 em memória** para desenvolvimento e tes
 * **Arquitetura:** Camadas Controller, Service e Repository.
 * **Segurança:** Spring Security (configurado com permissão total para testes em ambiente DEV).
 
+### Diagrama de Classes
+ <img width="3492" height="2268" alt="Mermaid-preview (1)" src="https://github.com/user-attachments/assets/153e508d-9247-486c-9033-1751ba59155c" />
+
+
 
 ## ⚙️ Configuração e Execução
 
